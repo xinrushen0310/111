@@ -1,3 +1,5 @@
+import matplotlib
+matplotlib.use("Agg")
 """
 Manchester United Stock & Match Performance Dashboard
 ACC102 Mini Assignment – Track 4: Interactive Data Analysis Tool
