@@ -20,7 +20,7 @@ import seaborn as sns
 from scipy import stats
 
 # ─────────────────────────────────────────────────────────────────────────────
-# Page configuration
+# Page configuration （）
 # ─────────────────────────────────────────────────────────────────────────────
 st.set_page_config(
     page_title="MANU Stock & Match Dashboard",
